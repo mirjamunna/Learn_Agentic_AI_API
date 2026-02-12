@@ -2,7 +2,7 @@
 
 A comprehensive, hands-on learning path covering APIs, AI agent development, and production-grade agentic systems — from fundamentals to expert-level multi-agent architectures.
 
-**Author:** Mir Jamunna
+**Author:** Mirja Shahidul Islam
 **Focus:** Building AI-powered agentic systems for [Synaptic Clarity](https://github.com/mirjamunna) target markets
 
 ---
